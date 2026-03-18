@@ -116,12 +116,6 @@ The bot catches bad inputs before they reach the API.
 <!-- Screenshot: red error box showing validation message -->
 ![Validation Error](docs/screenshots/validation_error.png)
 
-### Live logs
-
-<!-- Screenshot: live log panel in UI showing order placement lines -->
-![Live Logs](docs/screenshots/live_logs.png)
-
----
 
 ## CLI
 
