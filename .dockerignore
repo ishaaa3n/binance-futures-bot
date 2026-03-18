@@ -1,0 +1,27 @@
+# Credentials — must never be baked into the image
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs — written at runtime, not baked in
+logs/*.log
+
+# Dev / repo artefacts
+.git/
+.gitignore
+.github/
+*.md
+Dockerfile
+.dockerignore
+
+# OS
+.DS_Store
+Thumbs.db
